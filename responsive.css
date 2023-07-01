@@ -1,0 +1,63 @@
+@media (max-width: 1524px){
+    .telegram{
+        margin-left: 5%;
+    }
+    .line{
+        margin-left: 10%;
+    }.facebook{
+        margin-left: 15%;
+    }
+}
+
+
+@media (max-width: 1024px){
+    .container{
+        width: 90%;
+    }
+    .contact-btn{
+        width: 300px;
+    }
+    .icon{
+        max-width: 150px;
+    }
+    .telegram{
+        margin-left: 0%;
+    }
+    .line{
+        margin-left: 0%;
+    }.facebook{
+        margin-left: 0%;
+    }
+}
+
+@media(max-width: 767px){
+    .contact-btn{
+        margin: 17px 0;
+    }
+}
+
+
+
+@media (max-width: 480px){
+    .top{
+        padding-top: 0px;
+    }
+    .container{
+        width: 98%;
+        
+    }
+    .mid{
+        top: 395px;
+    }
+    
+    .contact{
+        /* width: 96%; */
+    }
+    .contact-btn{
+        width: 200px;
+        margin: 10px 0;
+    }
+    .icon{
+        max-width: 90px;
+    }
+}
